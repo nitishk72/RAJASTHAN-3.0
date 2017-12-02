@@ -1,7 +1,7 @@
 <div class="navbar-fixed ">
      <nav class="teal" role="navigation">
         <div class="nav-wrapper container">
-          <a id="logo-container" href="#" class="brand-logo  white-text">Medical.tech</a>
+          <a id="logo-container" href="#" class="brand-logo  white-text">HRM</a>
           <ul class="right hide-on-med-and-down">
             <li><a href="<?php echo base_url('index.php/');?>"  class="waves-effect white-text">Home</a></li>
             <li><a href="<?php echo base_url('index.php/About');?>"  class="waves-effect white-text">About</a></li>
